@@ -48,9 +48,9 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ✅ **Most Successful Teams** – Mumbai Indians & Chennai Super Kings dominate overall wins.  
 ✅ **Toss Impact** – Winning the toss and fielding first often increases chances of winning in recent seasons.  
 ✅ **Top Performers**
- - **Batsmen**: Virat Kohli, Suresh Raina, Rohit Sharma lead in total runs.  
- - **Bowlers**: Lasith Malinga & Dwayne Bravo top wicket charts.
-✅ **Venue Trends** – Wankhede & Chinnaswamy are high-scoring grounds, while Chepauk favors bowlers.  
+  - **Batsmen**: Virat Kohli, Suresh Raina, Rohit Sharma lead in total runs.  
+  - **Bowlers**: Lasith Malinga & Dwayne Bravo top wicket charts.
+✅ **Venue Trends**: Wankhede & Chinnaswamy are high-scoring grounds, while Chepauk favors bowlers.  
 
 ---
 
