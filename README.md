@@ -56,12 +56,16 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ---
 
 ## 📷 Sample Visualizations
-- 🏆 Top Winning Teams :
-- ![image alt](https://github.com/Hemanth-kumar-7/IPL-Exploratory-Data-Analysis-EDA-using-Python/blob/main/Output_images/Success%20Rate%20of%20Teams.png?raw=true)
-- 📅 Matches per Season  
-- 🏏 Top Run Scorers  
-- 🎯 Top Wicket Takers  
-- 🎲 Toss Decision vs Match Results  
+- ### 🏆 Most Success of Teams :
+  ![image alt](https://github.com/Hemanth-kumar-7/IPL-Exploratory-Data-Analysis-EDA-using-Python/blob/main/Output_images/Success%20Rate%20of%20Teams.png?raw=true)
+- ### 🏆🏆 Most Titles wins:
+  ![image alt](https://github.com/Hemanth-kumar-7/IPL-Exploratory-Data-Analysis-EDA-using-Python/blob/main/Output_images/Most%20Titles%20Wins.png?raw=true)
+- ### 🏏 Top 10 Best Batting Performances in a match :
+    ![image alt](https://github.com/Hemanth-kumar-7/IPL-Exploratory-Data-Analysis-EDA-usingPython/blob/main/Output_images/Top%2010%20Best%20Performances%20in%20a%20Match.png?raw=true)
+- ### 🎯 Top 10 Bowling Performances in all Seasons :
+  ![image alt](https://github.com/Hemanth-kumar-7/IPL-Exploratory-Data-Analysis-EDA-using-Python/blob/main/Output_images/Top%2010%20Bowling%20performances%20in%20all%20Seasons.png?raw=true)
+- ### 🎲 Top Cities that have hosted IPL matches :
+  ![image alt](https://github.com/Hemanth-kumar-7/IPL-Exploratory-Data-Analysis-EDA-using-Python/blob/main/Output_images/Top%2010%20Cities%20By%20Number%20of%20Matches.png?raw=true)
 
 ---
 
