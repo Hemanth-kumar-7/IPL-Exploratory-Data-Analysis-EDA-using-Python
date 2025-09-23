@@ -18,10 +18,10 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ---
 
 ## 🛠️ Tools & Libraries Used
-- Python 🐍  
-- Pandas → Data manipulation  
+- Python 3🐍  
+- Pandas → Data cleaning & analysis 
 - Matplotlib & Seaborn → Data visualization  
-- Plotly (optional) → Interactive dashboards  
+- Jupyter Notebook → Interactive coding & plots  
 
 ---
 
@@ -48,16 +48,14 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ✅ **Most Successful Teams** – Mumbai Indians & Chennai Super Kings dominate overall wins.  
 ✅ **Toss Impact** – Winning the toss and fielding first often increases chances of winning in recent seasons.  
 ✅ **Top Performers**  
-- **Batsmen**: Virat Kohli, Suresh Raina, Rohit Sharma lead in total runs.  
-- **Bowlers**: Lasith Malinga & Dwayne Bravo top wicket charts.  
+ - **Batsmen**: Virat Kohli, Suresh Raina, Rohit Sharma lead in total runs.  
+ - **Bowlers**: Lasith Malinga & Dwayne Bravo top wicket charts.  
 ✅ **Venue Trends** – Wankhede & Chinnaswamy are high-scoring grounds, while Chepauk favors bowlers.  
 
 ---
 
 ## 📷 Sample Visualizations
-*(Add your plots here after running the notebook!)*  
-
-- 🏆 Top Winning Teams  
+- 🏆 Top Winning Teams  ![Success Rate](<img width="1651" height="811" alt="Image" src="https://github.com/user-attachments/assets/897ada8b-2b14-4e78-9326-47226265fa51" />)
 - 📅 Matches per Season  
 - 🏏 Top Run Scorers  
 - 🎯 Top Wicket Takers  
