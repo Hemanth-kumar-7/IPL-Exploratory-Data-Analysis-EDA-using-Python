@@ -72,5 +72,5 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ---
 
 ## 🙌 Acknowledgments
-Dataset: Kaggle IPL Dataset
+Dataset: Kaggle IPL Dataset<br>
 Inspired by cricket fans and data enthusiasts 🏏
