@@ -7,9 +7,8 @@ The goal is to analyze team strategies, player performances, and winning pattern
 
 ## 📂 Dataset Description
 
-matches.csv → Match-level data (winner, toss, venue, teams, etc.).
-
-deliveries.csv → Ball-by-ball data (runs, wickets, bowler, batsman, dismissal, etc.).
++ matches.csv → Match-level data (winner, toss, venue, teams, etc.).
++ deliveries.csv → Ball-by-ball data (runs, wickets, bowler, batsman, dismissal, etc.).
 
 📊 Total Records:
 
