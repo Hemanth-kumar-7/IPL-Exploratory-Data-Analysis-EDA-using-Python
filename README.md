@@ -56,7 +56,8 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ---
 
 ## 📷 Sample Visualizations
-- 🏆 Top Winning Teams  
+- 🏆 Top Winning Teams :
+- ![image alt](https://github.com/Hemanth-kumar-7/IPL-Exploratory-Data-Analysis-EDA-using-Python/blob/main/Output_images/Success%20Rate%20of%20Teams.png?raw=true)
 - 📅 Matches per Season  
 - 🏏 Top Run Scorers  
 - 🎯 Top Wicket Takers  
