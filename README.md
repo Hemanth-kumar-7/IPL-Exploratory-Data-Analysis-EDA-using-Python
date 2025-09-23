@@ -55,7 +55,7 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ---
 
 ## 📷 Sample Visualizations
-- 🏆 Top Winning Teams  ![Success Rate](<img width="1651" height="811" alt="Image" src="https://github.com/user-attachments/assets/897ada8b-2b14-4e78-9326-47226265fa51" />)
+- 🏆 Top Winning Teams  ![Success Rate](Output_images/Success Rate of Teams.png)
 - 📅 Matches per Season  
 - 🏏 Top Run Scorers  
 - 🎯 Top Wicket Takers  
