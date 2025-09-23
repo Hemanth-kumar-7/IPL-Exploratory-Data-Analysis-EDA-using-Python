@@ -18,10 +18,10 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ---
 
 ## 🛠️ Tools & Libraries Used
-- Python 3🐍  
-- Pandas → Data cleaning & analysis 
-- Matplotlib & Seaborn → Data visualization  
-- Jupyter Notebook → Interactive coding & plots  
+- **Python** 3🐍  
+- **Pandas** → Data cleaning & analysis 
+- **Matplotlib & Seaborn** → Data visualization  
+- **Jupyter Notebook** → Interactive coding & plots  
 
 ---
 
@@ -55,7 +55,7 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ---
 
 ## 📷 Sample Visualizations
-- 🏆 Top Winning Teams  ![Success Rate](Output_images/Success Rate of Teams.png)
+- 🏆 Top Winning Teams  
 - 📅 Matches per Season  
 - 🏏 Top Run Scorers  
 - 🎯 Top Wicket Takers  
@@ -66,6 +66,10 @@ The goal is to analyze **team strategies, player performances, and winning patte
 ## 🚀 Future Work
 - Build a predictive model for match outcomes  
 - Create an interactive dashboard in **Power BI / Tableau**  
-- Analyze **bowler vs batsman rivalries**  
+- Analyze **bowler vs batsman rivalries**
 
 ---
+
+## 🙌 Acknowledgments
+Dataset: Kaggle IPL Dataset
+Inspired by cricket fans and data enthusiasts 🏏
