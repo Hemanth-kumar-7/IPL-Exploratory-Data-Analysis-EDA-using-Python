@@ -8,7 +8,7 @@ The goal is to analyze team strategies, player performances, and winning pattern
 ---
 ## Project Video
 
-🎥 [Watch Project Video](https://www.youtube.com/watch?v=KVht8JVterQ)
+🎥 [Watch Project Video](https://drive.google.com/file/d/1hdMRtS85hMTNVkKS6UaeJCr-DpsjNxaL/view?usp=drive_link)
 
 
 ---
